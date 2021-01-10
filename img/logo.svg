@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="400" height="400" viewBox="0, 0, 400, 400">
+  <g id="Background">
+    <rect x="0" y="0" width="400" height="400" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Layer_3">
+    <path d="M214.987,310.542 C154.213,323.46 94.473,284.664 81.555,223.89 C68.637,163.116 107.433,103.376 168.207,90.458 C228.981,77.54 288.721,116.336 301.639,177.11 C314.557,237.884 275.761,297.624 214.987,310.542 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="30" stroke-dasharray="600,60"/>
+    <path d="M325.018,243.085 L278.534,271.041 L273.456,217.387 L299.069,230.635 z" fill="#FFFFFF"/>
+  </g>
+  <g id="Layer_1">
+    <text transform="matrix(1, 0, 0, 1, 191.097, 211)">
+      <tspan x="-88.8" y="96.5" font-family="HelveticaNeue-CondensedBlack" font-size="300" fill="#64C4FF">N</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 265.097, 147.834)">
+      <tspan x="-37.598" y="39" font-family="Futura-CondensedExtraBold" font-size="125" fill="#FFE436">4</tspan>
+    </text>
+  </g>
+</svg>
